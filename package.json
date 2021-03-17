@@ -22,5 +22,8 @@
 	"type": "module",
 	"engines": {
 		"node": ">= 12.17.0"
+	},
+	"dependencies": {
+		"@sveltejs/adapter-netlify": "^1.0.0-next.0"
 	}
 }
